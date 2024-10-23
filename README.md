@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="PANCARAN GROUP 2029.gif" alt="logo"/>
+  <img src="PANCARAN GROUP 2019.gif" alt="logo"/>
 </p>
 
 # Persiapan-Robot-Python (RPA)      
