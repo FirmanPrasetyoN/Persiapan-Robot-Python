@@ -3,5 +3,5 @@
   <img src="PANCARAN GROUP 2019.gif" alt="logo"/>
 </p>
 
-# Persiapan-Robot-Python (RPA)      
-Persiapan apa saja yang harus kita lakukan untuk membuat robot (RPA) Python 
+# Selamat datang di ROBOT PYTHON PANCARAN (RPA)      
+Hai hai welcome back to belajar RPA, kuy belajar sama sama tentang RPA yuk kepoin Perfolder nya
