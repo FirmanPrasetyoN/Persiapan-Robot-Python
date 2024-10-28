@@ -12,7 +12,7 @@ Details nya Sebagai berikut :
 | robocorp-truststore=0.8.0        | https://pypi.org/project/robocorp-truststore/ | 
  
 
-link : 
+Quick link : 
 
 - [Pyhton](https://pyreadiness.org/3.10)                           
 - [pip=23.2.1](https://pip.pypa.io/en/stable/news)                      
